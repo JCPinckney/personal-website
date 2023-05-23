@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jonathan Pinckney
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jonathan
+last_name: Pinckney
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Director of Applied Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Horizons Project
+    url: https://horizonsproject.us/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -33,14 +33,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD | University of Denver
+      institution: Josef Korbel School of International Studies
+      year: 2018
+    - course: MA | University of Denver
+      institution: Josef Korbel School of International Studies
+      year: 2014
+    - course: BA | Gordon College
+      institution:
       year: 2008
 
 # Social/Academic Networking
@@ -80,5 +80,11 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am director of applied research at Horizons Project, where I lead the organization’s research efforts focused on countering democratic backsliding and resurgent authoritarianism through restorative movement building tactics and approaches. I am also a Professorial Lecturer in the department of Political Science at George Washington University.
+
+I am the author of From [Dissent to Democracy: The Promise and Peril of Civil Resistance Transitions](https://global.oup.com/academic/product/from-dissent-to-democracy-9780190097318?lang=en&cc=us), published by Oxford University Press.
+
+Before coming to Horizons in 2022, I was the senior researcher with the Program on Nonviolent Action at the United States Institute of Peace, a post-doctoral research fellow in the department of Sociology and Political Science at the Norwegian University of Science and Technology, an external associate at the Peace Research Institution of Oslo (PRIO), and a research fellow at the Sie Cheou-Kang Center for International Security and Diplomacy, where I supervised data collection for the Social Conflict Analysis Database (SCAD) and the Nonviolent and Violent Campaigns and Outcomes (NAVCO) 3.0 data project. 
+
+I received my PhD in International Relations from the University of Denver in March 2018, my MA also from the University of Denver in 2014, and my BA in International Affairs from Gordon College in Wenham, Massachusetts in 2008. I was a 2012 recipient of the Korbel School’s Sie Fellowship and a 2016 recipient of the International Center on Nonviolent Conflict’s PhD fellowship. Prior to entering graduate school I worked for study abroad programs in Egypt and India and helped found BIRDS International, an NGO addressing rural poverty issues in South India.  I currently live in Washington DC and enjoy running, camping, and mountain climbing.
 {style="text-align: justify;"}
