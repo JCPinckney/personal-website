@@ -1,11 +1,11 @@
 ---
 title: "Nonviolent Resistance and the Quality of Democracy"
 authors:
-- admin
 - Felix S. Bethke
+- admin
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2021-01-01T00:00:00Z"
 doi: "10.1177/0738894219855918"
 
@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Conflict Management and Peace Science, 38*(5) 503-523"
-publication_short: "CMPS"
+publication_short: "*Conflict Management and Peace Science*"
 
 abstract: "Previous research has shown that successful non-violent resistance (NVR) campaigns promote democracy compared with violent revolutions and top-down liberalization. However, research to date has not examined the character and quality of the democratic regimes following NVR campaigns, or evaluated the mechanisms that produce this effect. In this paper, we address this gap by
 analyzing the effect of NVR on the quality of democracy, using the Polyarchy index from the Varieties of Democracies project and its sub-components: (1) elected executive; (2) free and fair elections; (3) freedom of expression; (4) associational autonomy; and (5) inclusive citizenship. Using kernel matching and differences-in-differences estimation we find that initiating a democratic
@@ -32,7 +32,7 @@ transition through NVR improves democratic quality after transition significantl
 tags:
 - Democratization
 - Democratic Quality
-- Nonviolent resistance
+- Nonviolent Resistance
 - Protest
 featured: false
 
@@ -67,15 +67,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
