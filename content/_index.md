@@ -146,7 +146,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Book
       filters:
         folders:
           - publication
@@ -226,7 +226,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: jonathan.pinckney@protonmail.com
+    #  email: jonathan.pinckney@protonmail.com
     #  phone: 888 888 88 88
     # appointment_url: 'https://calendly.com'
     #  address:
@@ -245,14 +245,10 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/JCPinckney'
-        - icon: skype
+        - icon: linkedin
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Message Me on Linkedin
+          link: 'https://www.linkedin.com/in/jonathan-pinckney-6183b61a'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
