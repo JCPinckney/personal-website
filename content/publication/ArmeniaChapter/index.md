@@ -44,10 +44,10 @@ url_pdf: 'https://www.researchgate.net/publication/343227636_Donning_the_Velvet_
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: 'Image credit: Pandukht via [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:2018_Armenian_Revolution_08.05.2018_001.jpg)'
-#  focal_point: ""
-#  preview_only: false
+image:
+ caption: 'Image credit: Pandukht via [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:2018_Armenian_Revolution_08.05.2018_001.jpg)'
+ focal_point: ""
+ preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
