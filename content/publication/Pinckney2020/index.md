@@ -4,7 +4,7 @@ authors:
 - admin
 author_notes:
 date: "2020-06-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1093/oso/9780190097301.001.0001"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -31,9 +31,9 @@ tags:
 - Protest
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: "Purchase"
+  url: "https://global.oup.com/academic/product/from-dissent-to-democracy-9780190097318?cc=us&lang=en&"
 # url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/0738894219855918
 # url_code: 'https://journals.sagepub.com/doi/suppl/10.1177/0738894219855918/suppl_file/replication_files.rar'
 # url_dataset: ''
