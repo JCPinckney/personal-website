@@ -5,7 +5,7 @@ authors:
 - admin
 author_notes:
 date: "2015-06-01T00:00:00Z"
-doi: ""
+doi: "10.1016/B978-0-08-097086-8.96047-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2015-06-01T00:00:00Z"
@@ -20,7 +20,7 @@ publication_types: ["6"]
 publication: "in *International Encyclopedia of the Social and Behavioral Sciences*, edited by James D. Wright"
 publication_short: "*Intl. Encyclopedia of Soc. Sciences*"
 
-abstract: "ADD ABSTRACT"
+abstract: "Insurgency is the use of irregular tactics by a weaker foe seeking to impose military costs upon a stronger armed incumbent government or occupying power. Insurgencies have been ubiquitous in the twentieth century, with well over 200 new insurgencies emerging. Although insurgency has been a fairly popular method of conflict, it has not been particularly effective. The theory and practice of insurgency and counterinsurgency leaves many questions about why insurgency occurs, why it succeeds and fails, and how to respond to it. While key concepts and principles of insurgency and counterinsurgency brought to prominence in the mid-twentieth century remain largely visible in the contemporary world, scholarship must continue to evolve as new tactics and technologies revolutionize the nature of insurgency and political violence."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
