@@ -4,7 +4,7 @@ authors:
 - admin
 author_notes:
 date: "2020-09-01T00:00:00Z"
-doi: ""
+doi: "10.1177/2053168020936890"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Research & Politics 7*(2)"
 publication_short: "*Research & Politics*"
 
-abstract: "ADD ABSTRACT"
+abstract: "There is growing consensus that large oil and gas revenues in autocracies have multiple pernicious effects, from decreasing democratization to increasing armed conflict: the so-called “resource curse.” Yet we know little about the effects of oil and gas revenue on the onset of major nonviolent dissent. The logic of the resource curse would lead us to expect oil and gas revenue to significantly decrease the likelihood of nonviolent resistance, as resource wealth enables autocracies to increase repressive capacity and co-opt potential challengers. But this relationship has yet to be comprehensively tested. I show that such an effect obtains, but is more complex than previously theorized. Low levels of oil and gas revenue increase the likelihood of nonviolent resistance onset, while high levels decrease it. Despite popular assumptions and the general logic of the resource curse, oil only appears to drown out major nonviolent dissent at relatively high levels."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -32,8 +32,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/0738894219855918
-# url_code: 'https://journals.sagepub.com/doi/suppl/10.1177/0738894219855918/suppl_file/replication_files.rar'
+url_pdf: 'https://journals.sagepub.com/doi/pdf/10.1177/2053168020936890?download=true'
+url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4TKUSP'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -43,10 +43,10 @@ featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#  focal_point: ""
-#  preview_only: false
+image:
+ caption: 'Image credit: Suresh Babunair via [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Satorp_Jer_Refinery,_Jubail_-_panoramio.jpg)'
+ focal_point: ""
+ preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
