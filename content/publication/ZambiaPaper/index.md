@@ -6,7 +6,7 @@ author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2021-06-01T00:00:00Z"
-doi: ""
+doi: "10.1080/14742837.2021.2003192"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-06-01T00:00:00Z"
@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Social Movement Studies* OnlineFirst"
 publication_short: "*Social Movement Studies*"
 
-abstract: "ADD"
+abstract: "Current literature finds that democratization is most likely when opposition social movements have initiated a political transition. Yet little work has disaggregated bottom-up transitions to suggest when this effect obtains. This article examines a case not widely known in the social movements' literature: the 1991 political transition in Zambia. It proposes a novel theoretical avenue to help explain this case's incomplete democratic transition. The piece re-conceptualizes the opposition movement as a multi-organizational actor network. I argue that opposition movements face strong incentives to unify through either centralizing around a single organization or creating a dense network of multiple, overlapping connections. The strategy they pursue affects the transitional political landscape. Highly centralized opposition networks are likely to lead to less democratic outcomes while dense decentralized networks will have more democratic outcomes. I find that high centralization by the opposition in Zambia undermined political accountability during the transition and limited Zambia's democratic progress."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/publication/356149171_Close_but_Not_Too_Close_Opposition_Network_Strategy_and_Democratization_in_Zambia'
 url_code: ''
 # url_dataset: ''
 # url_poster: ''
