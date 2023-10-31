@@ -37,6 +37,8 @@ image:
 links:
   - name: Conference Page
     url: https://connect.apsanet.org/apsa2023/
+  - name: Slides
+    url: '/uploads/apsa_presentation.pdf'
 url_code: ''
 url_pdf: ''
 url_slides: ''
