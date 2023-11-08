@@ -5,11 +5,11 @@ authors:
 - Titik Firawati
 - admin
 - Ches Thurber
-date: "2023-05-01T00:00:00Z"
+date: "2023-10-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-01T00:00:00Z"
+publishDate: "2023-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Nonviolent civil resistance campaigns have a well-documented positive effect on democracy. Yet this relationship has been primarily based on measures of liberal or electoral democracy. The impact of civil resistance on egalitarian democracy, particularly the inclusion in state power and resources of historically excluded groups, has been less examined. This paper tests the hypotheses that initiating a political transition through civil resistance will advance gender, class, and ethnic inclusion relative to other transition modes. Using cross-national data on egalitarianism and exclusion from the Varieties of Democracy project, we find that civil resistance transitions (CRTs) produce gains in inclusion along all three of these dimensions greater than those observed in non-civil resistance transitions. Furthermore, we find that participation by marginalized groups in the civil resistance campaign leads to further advances in inclusion. Our findings indicate that civil resistance may be a powerful force for promoting inclusion of the historically marginalized.
+abstract: When do political transitions lead to greater inclusion for people historically excluded from power? Scholars and policymakers often assume democratization and political inclusion go hand in hand. Yet many democracies systematically exclude women, particular ethnic groups, or lower economic classes. Using data on every political transition from 1945 to 2014, this study shows that a regime transition’s initiating force critically shapes post-transition political inclusion. When transitions are initiated through primarily nonviolent civil resistance campaigns they achieve greater advances in inclusion relative to other types of transition. We propose three mechanisms to explain this effect: civil resistance leads to greater continued mobilization and civic activism among the historically excluded, provides greater opportunities for elites from historically excluded groups to rise to positions of leadership in new regimes, and forges more pluralistic norms of political behavior.
 
 # Summary. An optional shortened abstract.
 summary: Does civil resistance work for the most marginalized? In this paper we show that transitions initiated through civil resistance lead to significant gains in political inclusion along lines of race, class, and gender.
@@ -34,8 +34,8 @@ tags:
 featured: false
 
 links:
-# - name: Custom Link
-#  url: http://example.org
+- name: Preprint
+  url: http://dx.doi.org/10.13140/RG.2.2.28443.85282
 url_pdf: 
 url_code: ''
 url_dataset: ''
