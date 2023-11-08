@@ -34,9 +34,9 @@ tags:
 featured: false
 
 links:
-- name: Preprint
-  url: http://dx.doi.org/10.13140/RG.2.2.28443.85282
-url_pdf: 
+#- name: Preprint
+#  url: 
+url_pdf: 'http://dx.doi.org/10.13140/RG.2.2.28443.85282'
 url_code: ''
 url_dataset: ''
 url_poster: ''
