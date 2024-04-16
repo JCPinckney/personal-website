@@ -5,11 +5,11 @@ authors:
 - Titik Firawati
 - admin
 - Ches Thurber
-date: "2023-10-23T00:00:00Z"
+date: "2024-04-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-11-01T00:00:00Z"
+publishDate: "2024-04-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -67,6 +67,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+*Conditionally Accepted at Perspectives on Politics*
 
 ## **Abstract**
 Nonviolent civil resistance campaigns have a well-documented positive effect on democracy. Yet this relationship has been primarily based on measures of liberal or electoral democracy. The impact of civil resistance on egalitarian democracy, particularly the inclusion in state power and resources of historically excluded groups, has been less examined. This paper tests the hypotheses that initiating a political transition through civil resistance will advance gender, class, and ethnic inclusion relative to other transition modes. Using cross-national data on egalitarianism and exclusion from the Varieties of Democracy project, we find that civil resistance transitions (CRTs) produce gains in inclusion along all three of these dimensions greater than those observed in non-civil resistance transitions. Furthermore, we find that participation by marginalized groups in the civil resistance campaign leads to further advances in inclusion. Our findings indicate that civil resistance may be a powerful force for promoting inclusion of the historically marginalized.
