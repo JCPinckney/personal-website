@@ -1,12 +1,12 @@
 ---
-title: "Did the Women's March Work? Revisiting the Political Efficacy of Protest"
+title: "Non-Disruptive Protest Can Work: Evidence From the Women's March"
 authors:
 - admin
-date: "2019-11-01T00:00:00Z"
+date: "2024-03-35T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-01T00:00:00Z"
+publishDate: "2024-03-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,7 +15,7 @@ publishDate: "2023-05-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Under Review"
 publication_short: ""
 
 abstract: ""
@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: "https://www.researchgate.net/publication/344389689_Did_the_Women's_March_Work_Re-Evaluating_the_Political_Efficacy_of_Protest"
+url_pdf: "http://dx.doi.org/10.13140/RG.2.2.24332.95369"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,6 +61,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+**Under Review**
 
 ## **Abstract**
-The Women’s March on Washington and its over 600 sister marches were likely the single largest day of protest in American history, and were followed by a wave of political organizing that re-invigorated progressive politics after the 2016 election of President Donald Trump. Yet to what degree can we attribute the emergence of this Anti-Trump “Resistance” to the Women’s Marches themselves? Do public protests such as the Women’s March truly change political outcomes or do they simply reflect underlying public opinion? There is a growing literature arguing that protest has important effects independent of its endogenous relationship to public opinion. In this paper, I test this argument on the scale of the Women’s March. I instrument Women’s March participation using rainfall data from the day of the march and measure the effects of instrumented march size on two dependent variables: the creation of “Indivisible” groups, and the shift towards Democratic congressional candidates in the 2018 elections. I find that the instrumented size of Women’s March protests significantly increased both dependent variables. These findings provide strong evidence that the Women’s Marches were a significant transformative event in American politics, with real political consequences, and speak to the power of peaceful protest as a social movement tactic.
+Do protests impact politics? Many scholars argue they do, but disagree about their mechanisms of impact, with some arguing protests must disrupt to have impact while other focus on protest’s processes of political activation. Findings on protest’s political impact from prior literature also often suffer from endogeneity problems that make it difficult to tease out causal relationships. In this article, I provide a rigorous test of the political impact of protest in a case that allows for further insight into the mechanisms for protest’s impact: the 2017 Women’s March in the United States. I test the impact of the Women’s March using detailed geo-coded data on local marches’ size and location. To isolate the Marches’ effects I employ an instrumental variables analysis, instrumenting march size with precipitation and temperature data. I measure the effects of instrumented march size on three variables: the creation of “Indivisible” groups, donations to Democratic politicians, and 2018 election Democratic vote share. I find the Women’s March had a significant positive effect on all three dependent variables. These findings provide strong evidence that protests can have significant political impacts, even when they involve no disruption.
