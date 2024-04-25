@@ -39,7 +39,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2588760/NAVCO_3_paper.pdf?sequence=1
-url_code: 'https://www.prio.org/download/replicationfile/35/e4292b11-1e39-45bd-a900-72f4c870f916'
+url_code: 'https://cdn.cloud.prio.org/files/59e15178-9362-4559-85b4-67772b2ba516/Erica%20Chenoweth,%20Jonathan%20Pinckney%20and%20Orion%20Lewis.zip'
 url_dataset: 'https://dataverse.harvard.edu/dataverse/navco'
 # url_poster: ''
 # url_project: ''
