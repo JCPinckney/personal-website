@@ -67,8 +67,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-*Conditionally Accepted at Perspectives on Politics*
-
-## **Abstract**
-When do political transitions lead to greater inclusion for groups historically excluded from power? Scholars and policymakers often assume the answer is simple: a transition will result in more inclusion when it ends in democracy. Yet this answer is incomplete at best, since many democracies systematically exclude women, particular ethnic groups, or lower economic classes from power. Using data on every political transition from 1945 to 2014, this study shows that a political transition’s initiating force critically shapes post-transition political inclusion. When transitions are initiated through unarmed civil resistance campaigns they achieve greater advances in inclusion relative to other types of transition. We propose three mechanisms to explain this effect: civil resistance leads to greater continued mobilization and civic activism among the historically excluded, provides greater opportunities for elites from historically excluded groups to rise to positions of leadership in new regimes, and forges more pluralistic norms of political behavior.   
