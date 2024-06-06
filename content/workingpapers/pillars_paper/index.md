@@ -62,7 +62,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-**Under Review**
+**Revise and Resubmit**
 
 ## **Abstract**
 How can nonviolent resistance most effectively counter democratic backsliding? Scholars of nonviolent civil resistance have long argued that resistance campaigns are most effective when they undermine the loyalty of key “pillars of support:” the social and political institutions on which a regime rests, such as security forces, religious institutions, and business groups. Yet there has been little systematic study of resistance campaigns’ strategies for shifting pillar loyalties, nor of the tactics that pillars of support employ once such loyalty shifts have occurred. And much of the literature on the success of nonviolent resistance has focused on combatting authoritarian regimes, rather than democratic backsliding. In this paper, we present findings from a global data collection effort that seeks to fill these lacunae. We collect data on and analyze actions by resistance campaigns and four key pillars of support: religious communities, business interests, civic organizations, and security forces and veterans in a random sample of post-Cold War democratic backsliding periods. We find that a sequence of quiet diplomacy and relationship-building by activists to shift pillar loyalties, followed by more confrontational tactics by pillar actors once initial loyalty shifts have occurred, appears to be most effective in checking democratic backsliding.
