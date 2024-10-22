@@ -16,8 +16,8 @@ publishDate: "2024-10-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Mobilization: An International Quarterly"
-publication_short: "Mobilization"
+publication: "*Mobilization: An International Quarterly* (Forthcoming)"
+publication_short: "*Mobilization*"
 
 abstract: ""
 
@@ -65,8 +65,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-**Forthcoming**
 
 ## **Abstract**
 
