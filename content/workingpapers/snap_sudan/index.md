@@ -66,6 +66,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+*Conditionally Accepted at Nature Human Behavior*
 
 ## **Abstract**
 Nonviolent action is among the most potent tools for countering violence, advancing democracy, and protecting human rights. Recognizing this fact, the international community routinely invests significant resources in training activists in closed and conflict-affected societies to more effectively organize. Yet to date, little to no research has rigorously evaluated whether training effectively promotes nonviolent action, much less whether such training has a direct impact on violent conflict. In this study we measure the effects of a training program in nonviolent action and peacebuilding through a randomized controlled trial across 13 states in Sudan that trained 2,400 activists and civic leaders. Using pre- and post-intervention surveys, a dataset of local events from citizen journalists in treatment and control districts, and in-depth interviews we show that such training not only significantly increases trainees’ knowledge, skills, and confidence in nonviolent action but also reduced state violence in districts where the training took place, compared to control group districts. However, we find no significant impact from the training on government concessions to protesters or non-state violence. These findings provide strong evidence that nonviolent action can be learned, and when learned, can reduce some forms of violence in fragile environments. 
