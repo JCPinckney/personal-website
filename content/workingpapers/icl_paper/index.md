@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-# url_pdf: "http://dx.doi.org/10.13140/RG.2.2.24332.95369"
+url_pdf: "http://dx.doi.org/10.13140/RG.2.2.24622.01603"
 url_code: ''
 url_dataset: ''
 url_poster: ''
