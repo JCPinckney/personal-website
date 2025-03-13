@@ -3,7 +3,7 @@ title: "Nonviolent Alternatives Reduce External Support for Rebel Groups: Eviden
 authors:
 - Matthew Cebul
 - admin
-date: "2023-06-01T00:00:00Z"
+date: "2025-03-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
